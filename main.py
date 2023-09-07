@@ -231,6 +231,8 @@ print(type(float(num2)))
 
 print(int(num1+num2))
 
+#I STOPPED HERE BECAUSE I WAS INSTRUCTED TO
+
 #################################formatting strings####################
 # slide 19 -22
 
